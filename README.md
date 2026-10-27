@@ -2097,6 +2097,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Statable](https://statable.com) `https://mcp.statable.com/mcp`
   [![Statable MCP connector](https://glama.ai/mcp/connectors/com.statable/analytics/badges/score.svg)](https://glama.ai/mcp/connectors/com.statable/analytics)
   🔐 - Cookieless, EU-hosted web analytics: visitors, pages, sources, countries, goals, funnels and live traffic.
+- [Storefront Grader](https://grader-al6bxcngia-ue.a.run.app) `https://grader-al6bxcngia-ue.a.run.app/mcp`
+  [![Storefront Grader MCP connector](https://glama.ai/mcp/connectors/app.run.a.grader-al6bxcngia-ue/storefront-grader/badges/score.svg)](https://glama.ai/mcp/connectors/app.run.a.grader-al6bxcngia-ue/storefront-grader)
+  🔓 - Grades any storefront URL A–F on 20 weighted checks for AI-agent shopping readiness; $1.00 per call via x402.
 - [SubmitMyStartup](https://submitmystartup.com/) `https://submitmystartup.com/mcp`
   [![SubmitMyStartup MCP connector](https://glama.ai/mcp/connectors/com.submitmystartup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.submitmystartup/mcp)
   🔓 - Searches a free list of startup directories and launch sites with real submission results.
